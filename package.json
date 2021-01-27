@@ -2,7 +2,7 @@
   "name": "browser-print-js",
   "homepage": "http://printjs.crabbly.com",
   "description": "A tiny javascript library to help printing from the web.",
-  "version": "1.0.0",
+  "version": "1.5.1",
   "main": "dist/print.js",
   "types": "src/index.d.ts",
   "repository": "https://github.com/DineshKumar-G/Print.js",
@@ -42,7 +42,7 @@
     "start": "webpack-dev-server --public http://localhost:8080/test/manual --open",
     "standard:fix": "standard --fix"
   },
-  "author": "Rodrigo Vieira <rodrigo@crabbly.com>",
+  "author": "Dinesh Kumar G <dineshwork2018@gmail.com>",
   "standard": {
     "ignore": [
       "/dist/print.js"
@@ -55,6 +55,7 @@
   "keywords": [
     "printjs",
     "print.js",
-    "print-js"
+    "print-js",
+    "browser-print-js"
   ]
 }
